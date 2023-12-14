@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 # starting 
 - start with npm i json-server -g
 - execute json-server --watch data/questions.json --port 8000
-- npm run dev
+- yarn dev
